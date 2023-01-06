@@ -107,7 +107,7 @@ main{
 
 }
 .sectiontitle{
-    
+    text-align: center;
     margin-bottom: 30px;
     font-weight: 700;
     font-size: 35px;
@@ -140,3 +140,25 @@ margin-bottom: 30px;
     font-weight: 700;
 
 }
+.skill{
+background: #FFFFFF;
+box-shadow: 0px 6px 50px rgba(0, 0, 0, 0.06);
+border-radius: 5px;
+padding: 30px;
+}
+.skills-container{
+    display: flex;
+    gap: 24px;
+}
+.skilltitle{
+    font-weight: 700;
+    font-size: 20px;
+    margin-top: 30px;
+    margin-bottom: 20 px;
+}
+.skill-des{
+    color: #757575;
+}
+
+/*Resume Style*/
+
