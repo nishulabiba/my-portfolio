@@ -1,0 +1,67 @@
+*{
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.text-primary{
+    color: #FD6E0A;
+}
+
+/* Header and navigation style. */
+nav{
+    display: flex;
+    justify-content: space-between;
+    margin: 50px 200px;
+}
+.btn-primary{
+    font-size: 20px;
+    font-weight: 700;
+    color: #FFFFFF;
+    border: 0;
+    padding: 18px 35px;
+    background: #FD6E0A;
+    height: 64px;
+    border-radius: 5px;
+}
+nav li{
+    list-style: none;
+    margin-left: 50px;
+    font-size: 20px;
+    font-weight: 400;
+}
+nav ul{
+    display: flex;
+    align-items: center;
+    margin: 50px;
+}
+
+.nav-title{
+    font-weight: 800;
+    font-size: 45px;
+
+}
+/* banner style*/
+.banner{
+    margin: 0 200px;
+    align-items: center;
+    display: flex;
+}
+.bnr-sub{
+    color: #474747;
+    font-weight: 600;
+    font-size: 45px;
+    margin-bottom: 5px;
+
+}
+.bnr{
+    color: black;
+    font-size: 85px;
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+.bnr-description{
+    color: #757575;
+    font-size: 18px;
+    font-weight: 400;
+    margin-bottom: 30px;
+}
